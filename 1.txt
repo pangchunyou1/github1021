@@ -1,3 +1,4 @@
+我修改了
 我是1.txt，我是为了在练习git的命令。
 git add . 
 git commit -m "第一次提交"
